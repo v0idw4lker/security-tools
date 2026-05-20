@@ -1,4 +1,4 @@
-Security Tools: All-in-One Scanner 🛡️
+Security Tools: All-in-One Scanner 
 A reconnaissance (recon) tool developed to automate the process of network scanning and service identification (banner grabbing).
 
 Features
