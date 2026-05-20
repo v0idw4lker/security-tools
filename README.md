@@ -18,5 +18,4 @@ python scanner.py
 Deepened understanding of networking protocols (TCP/IP, HTTP).
 
 Learned to automate security workflows using Python.
-
 Mastered the fundamentals of the Reconnaissance phase in ethical hacking.
